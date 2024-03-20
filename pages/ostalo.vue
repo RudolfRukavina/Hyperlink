@@ -31,7 +31,7 @@
           </p>
           <div>
             <p class='bg-opacity-50 bg-black rounded-t-xl -my-2 pb-2'>Nassfeld, 3 dana, 150€</p><img
-              class="w-full  z-50 rounded-xl" src="http://zaski.hr/wp-content/uploads/2022/12/NASS.jpg" />
+              class="w-full  z-50 rounded-xl" src="../assets/img/krvavecski.jpeg" />
           </div>
 
 
