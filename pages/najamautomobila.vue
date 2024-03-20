@@ -1,7 +1,7 @@
 <template>
 
   <Head>
-    <Title>Najam putničkih kombi vozila | Kvarner Tours</Title>
+    <Title>Najam automobila | Kvarner Tours</Title>
     <Meta name="description"
       content="Bez puno muke, uz Parallel poduke! Uspješno savladajte gradivo neophodno za polaganje državne mature!" />
     <Style type="text/css" />
@@ -13,12 +13,12 @@
       <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
         <div class="flex flex-col w-full md:w-3/5 justify-center items-start text-center md:text-left">
-          <p class=" tracking-loose w-full">Nudimo najpovoljniji najam putničkih kombi vozila!</p>
+          <p class=" tracking-loose w-full">Nudimo najpovoljniji najam vozila!</p>
           <h1 class="mb-4  text-4xl lg:text-5xl font-bold leading-tight w-full">
-            Najam putničkih kombi vozila
+            Najam automobila
           </h1>
           <p class="leading-normal text-xl mb-8 w-full">
-            (8+1 sjedala)
+            (3+1 sjedala)
           </p>
           <NuxtLink to="#mojplanzamaturu"
             class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
@@ -27,7 +27,7 @@
         </div>
         <!--Right Col-->
         <div class="w-full md:w-2/5 py-6 text-center">
-          <img class="w-full md:w-4/5 z-50 rounded-xl" src="../assets/img/kvarnernaslovnica.jpeg" />
+          <img class="w-full md:w-4/5 z-50 rounded-xl" src="../assets/img/car.jpeg" />
 
         </div>
       </div>
@@ -205,7 +205,7 @@
     </svg>
     <section class="container mx-auto text-center py-1 pb-10" id='radnovrijeme'>
       <h2 class="w-full my-5 text-2xl px-5 lg:text-3xl font-bold leading-tight text-center text-white">
-        Iznajmljivanje putničkih kombi vozila nikada nije bilo lakše!
+        Iznajmljivanje automobila nikada nije bilo lakše!
 
       </h2>
       <div class="w-full mb-4">
@@ -214,7 +214,7 @@
       <h3 class="my-4 text-sm lg:text-xl px-3 leading-tight">
 
         Bez obzira putujete li s obitelji, prijateljima ili poslovnim kolegama, naša
-        vozila s 8+1 sjedala pružit će vam udobnost, sigurnost i fleksibilnost tijekom cijelog putovanja. Kontaktirajte
+        vozila pružit će vam udobnost, sigurnost i fleksibilnost tijekom cijelog putovanja. Kontaktirajte
         nas odmah i rezervirajte svoje vozilo!
 
       </h3>

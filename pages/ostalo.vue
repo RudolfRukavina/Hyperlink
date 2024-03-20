@@ -1,9 +1,8 @@
 <template>
 
   <Head>
-    <Title>Ostale usluge | Poduke Parallel</Title>
-    <Meta name="description"
-      content="Tu smo da vam pomognemo! Nudimo usluge pomoći u pisanju zadaća, seminara, projekata i lektira! Također nudimo usluge pripreme za natjecanja, organizacije seminara te edukacije iz različitih područja!" />
+    <Title>Organizirana putovanja | Kvarner Tours</Title>
+    <Meta name="description" content="Ubacite se u organizirano putovanje." />
     <Style type="text/css" />
   </Head>
 
@@ -12,12 +11,12 @@
       <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
         <div class="flex flex-col w-full md:w-3/5 justify-center items-start text-center md:text-left">
-          <p class=" tracking-loose w-full">Bez puno muke, uz Parallel poduke!</p>
+          <p class=" tracking-loose w-full">Nudimo povoljna organizirana putovanja!</p>
           <h1 class="mb-4  text-5xl lg:text-6xl font-bold leading-tight w-full">
-            Ostale usluge
+            Organizirana putovanja
           </h1>
           <p class="leading-normal text-lg text-center w-full md:w-auto mb-8">
-            Tu smo da vam pomognemo!
+            Prijavite se za putovanje i proputujte svijet!
           </p>
           <a href="tel:+38598491369"
             class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
@@ -25,8 +24,16 @@
           </a>
         </div>
         <!--Right Col-->
-        <div class="w-full md:w-2/5 py-6 text-center">
-          <img class="w-full md:w-4/5 z-50 rounded-xl" src="../assets/img/ostaleusluge.png" />
+
+        <div class="w-full md:w-2/5 py-6 text-center px-3 bg-opacity-30 bg-black rounded-xl my-10">
+          <p class="leading-normal text-2xl text-center w-full md:w-auto mb-3 ">
+            Aktualna putovanja
+          </p>
+          <div>
+            <p class='bg-opacity-50 bg-black rounded-t-xl -my-2 pb-2'>Nassfeld, 3 dana, 150€</p><img
+              class="w-full  z-50 rounded-xl" src="http://zaski.hr/wp-content/uploads/2022/12/NASS.jpg" />
+          </div>
+
 
 
         </div>

@@ -107,8 +107,8 @@
                 class="no-underline hover:underline text-gray-800 hover:text-pink-500">Radno vrijeme</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://maps.app.goo.gl/9dFa9f6sUkVuHxRD9" target='_blank'
-                class=" hover:underline text-gray-800 underline hover:text-pink-500">Ulica Ante Mandića 2, Opatija</a>
+              <a href="https://maps.app.goo.gl/Fe8cqaybjmVwi4P67" target='_blank'
+                class=" hover:underline text-gray-800 underline hover:text-pink-500">Dr. Ante Mandića 2, Opatija</a>
             </li>
           </ul>
         </div>

@@ -152,18 +152,24 @@
         </div>
         <p class="text-sm mt-3 font-medium lg:text-xl mx-8 tracking-tight text-black">
           <br>
-          Kvarner Tours je turistička agencija za pružanje usluga prijevoza putnika u domaćem i međunarodnom prometu na
-          svim relacijama
-          od 0-24h, kombijem (8+1) i osobnim vozilima (3+1) s vozačem.
+          Kvarner Tours je renomirana turistička agencija koja se ponosi pružanjem vrhunskih usluga prijevoza putnika
+          kako u domaćem tako i u međunarodnom prometu. Naša misija je osigurati udobno, sigurno i pouzdano putovanje za
+          sve naše klijente, bez obzira na destinaciju ili vrijeme putovanja.
         </p>
         <p class="text-sm mt-3 font-medium lg:text-xl mx-8 tracking-tight text-black"> <br />
-          Kroz godine školovanja, suočavali smo se s izazovima obrazovnog sustava i prepoznali njegove nedostatke. Ovim
-          putem želimo pružiti pomoć svima koji se suočavaju s različitim preprekama, sličnim onima koje smo i sami
-          prevladavali tokom obrazovnog procesa. Budući da smo mladi i svjesni, vjerujemo da možemo prenositi znanje na
-          jednostavan i zanimljiv način. Naš cilj je
-          unaprijediti
-          obrazovno iskustvo, čineći ga
-          pristupačnijim i uzbudljivijim za sve.</p>
+
+          Naša flota vozila sastoji se od modernih kombija (8+1) i udobnih osobnih vozila (3+1), opremljenih svim
+          potrebnim sadržajima kako bi vaše putovanje bilo ugodno i bez stresa. Svi naši vozači su visoko kvalificirani
+          i iskusni, te su posvećeni pružanju vrhunske usluge i sigurnosti putnika.</p>
+        <p class="text-sm mt-3 font-medium lg:text-xl mx-8 tracking-tight text-black"> <br />
+          Neovisno o tome putujete li poslovno ili privatno, sami ili u grupi, Kvarner Tours je vaš pouzdani partner za
+          prijevoz. Naša usluga dostupna je 24 sata dnevno, 7 dana u tjednu, kako bismo osigurali da uvijek možete
+          računati na nas, bez obzira na vaše potrebe ili hitnost putovanja.
+        </p>
+        <p class="text-sm mt-3 font-medium lg:text-xl mx-8 tracking-tight text-black"> <br />
+          Svojim posvećenim pristupom i pažnjom prema detaljima, Kvarner Tours stvara iskustvo putovanja koje će vam
+          ostati u lijepom sjećanju. Kontaktirajte nas danas i dopustite nam da vam pružimo nezaboravno putovanje koje
+          će nadmašiti sva vaša očekivanja.</p>
       </div>
       <div class='flex justify-center' id='cestapitanja'>
         <NuxtLink to='#cestapitanja'
@@ -202,13 +208,13 @@
     <section class="container mx-auto px-5 text-center py-6">
       <h2 class="w-full my-2 text-xl lg:text-3xl font-bold leading-tight text-center text-white">
         📍 Nalazimo se na adresi <a href="https://maps.app.goo.gl/9dFa9f6sUkVuHxRD9" target='_blank'
-          class='hover:text-gray-100 underline cursor-pointer '>Riva 20, Rijeka</a>
+          class='hover:text-gray-100 underline cursor-pointer '>Dr. Ante Mandića 2, Opatija</a>
       </h2>
       <div class="w-full mb-4">
         <div class="h-1 mx-auto bg-white w-2/6 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
       <h2 class="w-full my-2 text-xl lg:text-3xl font-bold leading-tight text-center text-white">
-        📚 Škola Parallel počela je s radom u Rijeci 1. veljače 2022. godine.
+        Kvarner Tours započelo je s radom u Opatiji 1. veljače 2022. godine.
       </h2>
       <div class="w-full mb-4">
         <div class="h-1 mx-auto bg-white w-2/6 opacity-25 my-0 py-0 rounded-t"></div>
