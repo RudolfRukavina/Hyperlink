@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li>
-      <a class="phone" href="tel:+385917865619">
+      <a class="phone" href="tel:+38598491369">
         <span></span>
         <span></span>
         <span></span>
@@ -10,7 +10,7 @@
       </a>
     </li>
     <li>
-      <a class="phone" href="tel:+385917865619">
+      <a class="phone" href="tel:+38598491369">
         <span></span>
         <span></span>
         <span></span>
@@ -19,7 +19,7 @@
       </a>
     </li>
     <li>
-      <a class="phone" href="tel:+385917865619">
+      <a class="phone" href="tel:+38598491369">
         <span></span>
         <span></span>
         <span></span>

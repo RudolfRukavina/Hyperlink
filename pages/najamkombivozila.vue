@@ -1,4 +1,5 @@
 <template>
+
   <Head>
     <Title>Najam putničkih kombi vozila | Kvarner Tours</Title>
     <Meta name="description"
@@ -210,12 +211,13 @@
         <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
       <h3 class="my-4 text-xl px-3 leading-tight">
-        Riješi maturu bez muke uz Parallel poduke i na vrijeme kreni s pripremama kako bi izbjegao/la nepotreban stres! 📚
+        Riješi maturu bez muke uz Parallel poduke i na vrijeme kreni s pripremama kako bi izbjegao/la nepotreban stres!
+        📚
       </h3>
       <h3 class="my-4 text-4xl leading-tight font-bold">
         Prijave do 11.03.2024.
       </h3>
-      <a href="tel:+385917865619">
+      <a href="tel:+38598491369">
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Nazovite nas!
@@ -261,106 +263,104 @@
 </style>
 
 <script setup>
-  import { ref } from "vue"
+import { ref } from "vue"
 
-  const selectedPriprema = ref()
-  const kosarica = ref([])
-
-
-  const addToCart = (program) => {
-    const existingItemIndex = kosarica.value.findIndex(item => item.title === program.title);
-
-    if (existingItemIndex !== -1) {
-      // Item already in the cart, remove it
-      kosarica.value.splice(existingItemIndex, 1);
-    }
-
-    // Add the new item to the cart
-    kosarica.value.push({ ...program, quantity: 1 });
-    selectedPriprema.value = null;
-  };
-
-  const removeFromCart = (itemToRemove) => {
-    const index = kosarica.value.findIndex(item => item.title === itemToRemove.title);
-    if (index !== -1) {
-      kosarica.value.splice(index, 1);
-    }
-  };
+const selectedPriprema = ref()
+const kosarica = ref([])
 
 
+const addToCart = (program) => {
+  const existingItemIndex = kosarica.value.findIndex(item => item.title === program.title);
 
+  if (existingItemIndex !== -1) {
+    // Item already in the cart, remove it
+    kosarica.value.splice(existingItemIndex, 1);
+  }
 
-  const totalAmount = computed(() => {
-    return kosarica.value.reduce((total, item) => total + parseFloat(item.cijena) * item.quantity, 0);
-  });
+  // Add the new item to the cart
+  kosarica.value.push({ ...program, quantity: 1 });
+  selectedPriprema.value = null;
+};
 
-  const totalHoursAmount = computed(() => {
-    return kosarica.value.reduce((total, item) => total + parseFloat(item.brojSati), 0);
-  });
-
-  const discountPercentage = computed(() => {
-    const selectedCount = kosarica.value.length;
-    if (selectedCount === 2) {
-      return 0.1; // 10% discount for 2 selected items
-    } else if (selectedCount >= 3) {
-      return 0.2; // 20% discount for 3 or more selected items
-    }
-    return 0; // No discount if less than 2 selected items
-  });
-
-  const discountedTotalAmount = computed(() => {
-    const total = totalAmount.value;
-    return total - (total * discountPercentage.value);
-  });
-
-  const isInCart = (item) => {
-    return kosarica.value.some(cartItem => cartItem.title === item.title && cartItem.razina === item.razina);
-  };
+const removeFromCart = (itemToRemove) => {
+  const index = kosarica.value.findIndex(item => item.title === itemToRemove.title);
+  if (index !== -1) {
+    kosarica.value.splice(index, 1);
+  }
+};
 
 
 
 
-  const programimature = ref([
-    {
-      title: 'MATEMATIKA',
-      razina: 'A razina',
-      brojSati: '70',
-      cijena: '420,00'
-    },
-    {
-      title: 'MATEMATIKA',
-      razina: 'B razina',
-      brojSati: '50',
-      cijena: '300,00'
-    },
-    {
-      title: 'ENGLESKI',
-      razina: 'A razina',
-      brojSati: '40',
-      cijena: '240,00'
-    },
-    {
-      title: 'ENGLESKI',
-      razina: 'B razina',
-      brojSati: '30',
-      cijena: '180,00'
-    },
-    {
-      title: 'HRVATSKI',
-      brojSati: '60',
-      cijena: '360,00'
-    },
-    {
-      title: 'FIZIKA',
-      brojSati: '60',
-      cijena: '360,00'
-    },
-    {
-      title: 'KEMIJA',
-      brojSati: '60',
-      cijena: '360,00'
-    },
-  ])
+const totalAmount = computed(() => {
+  return kosarica.value.reduce((total, item) => total + parseFloat(item.cijena) * item.quantity, 0);
+});
+
+const totalHoursAmount = computed(() => {
+  return kosarica.value.reduce((total, item) => total + parseFloat(item.brojSati), 0);
+});
+
+const discountPercentage = computed(() => {
+  const selectedCount = kosarica.value.length;
+  if (selectedCount === 2) {
+    return 0.1; // 10% discount for 2 selected items
+  } else if (selectedCount >= 3) {
+    return 0.2; // 20% discount for 3 or more selected items
+  }
+  return 0; // No discount if less than 2 selected items
+});
+
+const discountedTotalAmount = computed(() => {
+  const total = totalAmount.value;
+  return total - (total * discountPercentage.value);
+});
+
+const isInCart = (item) => {
+  return kosarica.value.some(cartItem => cartItem.title === item.title && cartItem.razina === item.razina);
+};
+
+
+
+
+const programimature = ref([
+  {
+    title: 'MATEMATIKA',
+    razina: 'A razina',
+    brojSati: '70',
+    cijena: '420,00'
+  },
+  {
+    title: 'MATEMATIKA',
+    razina: 'B razina',
+    brojSati: '50',
+    cijena: '300,00'
+  },
+  {
+    title: 'ENGLESKI',
+    razina: 'A razina',
+    brojSati: '40',
+    cijena: '240,00'
+  },
+  {
+    title: 'ENGLESKI',
+    razina: 'B razina',
+    brojSati: '30',
+    cijena: '180,00'
+  },
+  {
+    title: 'HRVATSKI',
+    brojSati: '60',
+    cijena: '360,00'
+  },
+  {
+    title: 'FIZIKA',
+    brojSati: '60',
+    cijena: '360,00'
+  },
+  {
+    title: 'KEMIJA',
+    brojSati: '60',
+    cijena: '360,00'
+  },
+])
 </script>
-
-

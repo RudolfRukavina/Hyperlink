@@ -1,8 +1,9 @@
 <template>
+
   <Head>
     <Title>Kvarner Tours - Naslovnica</Title>
-    <Meta name="description" content="Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih
-            predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke! " />
+    <Meta name="description"
+      content="Najpovoljniji najam putničkih kombi vozila (8+1 sjedala) i automobila u Primorsko-goranskoj županiji! Otvoreni smo 24 sata svaki dan." />
     <Style type="text/css" />
   </Head>
   <!--Hero-->
@@ -161,7 +162,7 @@
       <h3 class="my-4 text-3xl leading-tight">
         Otvoreni smo svaki dan!
       </h3>
-      <a href="tel:+385917865619">
+      <a href="tel:+38598491369">
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Nazovite nas!
@@ -194,72 +195,72 @@
   </body>
 </template>
 <script setup>
-  import { ref } from "vue"
-  import { onMounted } from 'vue'
-  import {
-    initAccordions,
-    initCarousels,
-    initCollapses,
-    initDials,
-    initDismisses,
-    initDrawers,
-    initDropdowns,
-    initModals,
-    initPopovers,
-    initTabs,
-    initTooltips
-  } from 'flowbite'
+import { ref } from "vue"
+import { onMounted } from 'vue'
+import {
+  initAccordions,
+  initCarousels,
+  initCollapses,
+  initDials,
+  initDismisses,
+  initDrawers,
+  initDropdowns,
+  initModals,
+  initPopovers,
+  initTabs,
+  initTooltips
+} from 'flowbite'
 
-  // initialize components based on data attribute selectors
-  onMounted(() => {
-    initAccordions();
-    initCarousels();
-    initCollapses();
-    initDials();
-    initDismisses();
-    initDrawers();
-    initDropdowns();
-    initModals();
-    initPopovers();
-    initTabs();
-    initTooltips();
-  })
+// initialize components based on data attribute selectors
+onMounted(() => {
+  initAccordions();
+  initCarousels();
+  initCollapses();
+  initDials();
+  initDismisses();
+  initDrawers();
+  initDropdowns();
+  initModals();
+  initPopovers();
+  initTabs();
+  initTooltips();
+})
 
 
-  useHead({
-    title: 'Poduke Parallel',
-    meta: [
-      { name: 'description', content: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!' }
-    ],
-    bodyAttrs: {
-      class: ''
-    },
-    script: []
-  })
+useHead({
+  title: 'Poduke Parallel',
+  meta: [
+    { name: 'description', content: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!' }
+  ],
+  bodyAttrs: {
+    class: ''
+  },
+  script: []
+})
 
-  useSeoMeta({
-    title: 'Poduke Parallel',
-    ogTitle: 'Poduke Parallel',
-    description: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!',
-    ogDescription: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!',
-    ogImage: '../assets/img/ogpoduke.jpeg',
-    twitterCard: '../assets/img/ogpoduke.jpeg',
-  })
+useSeoMeta({
+  title: 'Poduke Parallel',
+  ogTitle: 'Poduke Parallel',
+  description: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!',
+  ogDescription: 'Učenje bez muke, uz Parallel poduke! Unaprijedite svoje učenje kroz naše iskustvo, poticaj i konstantnu podršku. Održavamo instrukcije iz svih obaveznih i velikog broja stručnih predmeta. Uspješno savladajte gradivo neophodno za polaganje državne mature uz Parallel poduke!',
+  ogImage: '../assets/img/ogpoduke.jpeg',
+  twitterCard: '../assets/img/ogpoduke.jpeg',
+})
 
-  // initialize components based on data attribute selectors
-  onMounted(() => {
-    initAccordions();
-    initCarousels();
-    initCollapses();
-    initDials();
-    initDismisses();
-    initDrawers();
-    initDropdowns();
-    initModals();
-    initPopovers();
-    initTabs();
-    initTooltips();
-  })
+// initialize components based on data attribute selectors
+onMounted(() => {
+  initAccordions();
+  initCarousels();
+  initCollapses();
+  initDials();
+  initDismisses();
+  initDrawers();
+  initDropdowns();
+  initModals();
+  initPopovers();
+  initTabs();
+  initTooltips();
+})
 
 
 

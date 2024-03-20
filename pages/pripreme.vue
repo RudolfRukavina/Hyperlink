@@ -1,4 +1,5 @@
 <template>
+
   <Head>
     <Title>Pripreme za državnu maturu | Poduke Parallel</Title>
     <Meta name="description"
@@ -210,12 +211,13 @@
         <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
       </div>
       <h3 class="my-4 text-xl px-3 leading-tight">
-        Riješi maturu bez muke uz Parallel poduke i na vrijeme kreni s pripremama kako bi izbjegao/la nepotreban stres! 📚
+        Riješi maturu bez muke uz Parallel poduke i na vrijeme kreni s pripremama kako bi izbjegao/la nepotreban stres!
+        📚
       </h3>
       <h3 class="my-4 text-4xl leading-tight font-bold">
         Prijave do 11.03.2024.
       </h3>
-      <a href="tel:+385917865619">
+      <a href="tel:+38598491369">
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Nazovite nas!

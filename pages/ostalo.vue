@@ -1,4 +1,5 @@
 <template>
+
   <Head>
     <Title>Ostale usluge | Poduke Parallel</Title>
     <Meta name="description"
@@ -18,7 +19,7 @@
           <p class="leading-normal text-lg text-center w-full md:w-auto mb-8">
             Tu smo da vam pomognemo!
           </p>
-          <a href="tel:+385917865619"
+          <a href="tel:+38598491369"
             class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
             Nazovite nas!
           </a>

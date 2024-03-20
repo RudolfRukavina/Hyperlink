@@ -216,7 +216,7 @@
           Kvarner Tours</h1>
       </NuxtLink>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
-        <a href="tel:+385917865619"
+        <a href="tel:+38598491369"
           class="text-3xl px-3  rounded-xl   text-black bg-gray-100 hover:bg-gray-200 hover:shadow-sm"><i
             class='fa fa-phone'></i></a>
       </div>
@@ -345,9 +345,9 @@
                       20, Rijeka</i></a>
                 </li>
                 <li>
-                  <a href="tel:+385917865619"
+                  <a href="tel:+38598491369"
                     class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"><i
-                      class='fa fa-phone'> +385917865619</i></a>
+                      class='fa fa-phone'> +38598491369</i></a>
                 </li>
 
               </ul>
@@ -376,36 +376,36 @@
 </template>
 
 <script setup>
-  import { ref } from "vue"
-  import { onMounted } from 'vue'
-  import {
-    initAccordions,
-    initCarousels,
-    initCollapses,
-    initDials,
-    initDismisses,
-    initDrawers,
-    initDropdowns,
-    initModals,
-    initPopovers,
-    initTabs,
-    initTooltips
-  } from 'flowbite'
+import { ref } from "vue"
+import { onMounted } from 'vue'
+import {
+  initAccordions,
+  initCarousels,
+  initCollapses,
+  initDials,
+  initDismisses,
+  initDrawers,
+  initDropdowns,
+  initModals,
+  initPopovers,
+  initTabs,
+  initTooltips
+} from 'flowbite'
 
-  // initialize components based on data attribute selectors
-  onMounted(() => {
-    initAccordions();
-    initCarousels();
-    initCollapses();
-    initDials();
-    initDismisses();
-    initDrawers();
-    initDropdowns();
-    initModals();
-    initPopovers();
-    initTabs();
-    initTooltips();
-  })
+// initialize components based on data attribute selectors
+onMounted(() => {
+  initAccordions();
+  initCarousels();
+  initCollapses();
+  initDials();
+  initDismisses();
+  initDrawers();
+  initDropdowns();
+  initModals();
+  initPopovers();
+  initTabs();
+  initTooltips();
+})
 
 </script>
 
@@ -415,4 +415,3 @@
   font-weight: 600;
 }
 </style>
-

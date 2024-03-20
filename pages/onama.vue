@@ -1,4 +1,5 @@
 <template>
+
   <Head>
     <Title>O nama | Kvarner Tours</Title>
     <Meta name="description" content=" Parallel je novo osnovana škola čiji je temeljni cilj olakšati učenje kroz organizaciju individualnih i grupnih
@@ -215,7 +216,7 @@
       <h3 class="my-4 text-xl px-3 leading-tight">
         Ukoliko imate više pitanja, slobodno nam se obratite. 🤓
       </h3>
-      <a href="tel:+385917865619">
+      <a href="tel:+38598491369">
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
           Nazovite nas!
