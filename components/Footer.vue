@@ -57,7 +57,7 @@
         <div>
           <ul class="text-gray-500  font-medium">
             <li class=''>
-              <a href="#" class="hover:underline">Uvjeti korištenja</a>
+                           <NuxtLink to="/digitalizacija" class="hover:underline">Uvjeti korištenja</a>
             </li>
 
           </ul>
@@ -80,89 +80,135 @@
         <div class="flex-1 mb-6 text-black">
           <a class="text-pink-600 no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
             <!--Icon from: http://www.potlabicons.com/ -->
-            <img src="../assets/img/ktourslogo.png" alt=""
-              class="h-14 w-14  border-4 border-gray-50  inline-block me-3 rounded-xl">
+            <img src="../assets/img/hyperlinklogo3.webp" alt="" class="w-32  inline-block me-3 rounded-xl">
 
           </a>
         </div>
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Kvarner Tours</p>
+          <p class="uppercase text-gray-500 md:mb-6">Hyperlink</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/', hash: '#naslovnica' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Naslovnica
+              <NuxtLink to="/" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Naslovnica
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/mojeinformacije" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Moje informacije
               </NuxtLink>
             </li>
 
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/', hash: '#usluge' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Usluge</NuxtLink>
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/onama', hash: '#naslovnica' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">O nama</NuxtLink>
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/', hash: '#radnovrijeme' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Radno vrijeme</NuxtLink>
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://maps.app.goo.gl/Fe8cqaybjmVwi4P67" target='_blank'
-                class=" hover:underline text-gray-800 underline hover:text-pink-500">Dr. Ante Mandića 2, Opatija</a>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Usluge digitalizacije poslovanja</NuxtLink>
             </li>
           </ul>
         </div>
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Najam putničkih kombi vozila</p>
+          <p class="uppercase text-gray-500 md:mb-6">Usluge digitalizacije poslovanja</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/pripreme', hash: '#cjenik' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Bez vozača
+              <NuxtLink to="digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Frizerski salon | Salon ljepote
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/pripreme', hash: '#mojplanzamaturu' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">S vozačem</NuxtLink>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Teretana | Fitness
+                center
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Taxi služba
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Ugostiteljski objekt - Caffe bar
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Ugostiteljski objekt - Restoran
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Rent a car | Rent a van
+              </NuxtLink>
             </li>
           </ul>
         </div>
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Najam automobila</p>
+          <p class="uppercase text-gray-500 md:mb-6">Marketing</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/instrukcije', hash: '#osnovnaskola' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Bez vozača
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Izrada | Instrukcije i pomoć s vođenjem društvenih mreža
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink :to="{ path: '/instrukcije', hash: '#srednjaskola' }"
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">S vozačem</NuxtLink>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Izrada | Instrukcije i pomoć s google oglašavanjem
+              </NuxtLink>
             </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Izrada | Instrukcije i pomoć s facebook oglašavanjem
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Izrada kratkih glazbenih videa
+              </NuxtLink>
+            </li>
+
           </ul>
         </div>
 
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Mreže</p>
+          <p class="uppercase text-gray-500 md:mb-6">Grafički dizajn</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://www.facebook.com/poduke.parallel" target='_blank'
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Facebook</a>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Razvoj dizajna logotipa</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="https://www.instagram.com/poduke.parallel" target='_blank'
-                class="no-underline hover:underline text-gray-800 hover:text-pink-500">Instagram</a>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Razvoj dizajna i provedba izrade
+                letaka</NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Razvoj dizajna i provedba izrade
+                vizitki</NuxtLink>
             </li>
 
           </ul>
         </div>
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Prava korisnika</p>
+          <p class="uppercase text-gray-500 md:mb-6">Očekivanja i predviđanja</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Uvjeti korištenja</a>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+                2024. godinu</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Privatnost</a>
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+                2025. godinu</NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+                2026. godinu</NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+                2027. godinu</NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+                2028. godinu</NuxtLink>
             </li>
           </ul>
         </div>

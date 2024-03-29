@@ -207,17 +207,18 @@
 
   <nav class="bg-white ">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
-      <NuxtLink :to="{ path: '/', hash: '#naslovnica' }" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <!-- <img
-          src="https://scontent.fzag3-1.fna.fbcdn.net/v/t39.30808-6/272338202_113056497938619_320687629502909542_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9wXAN7h9bvgAX-pR4xl&_nc_ht=scontent.fzag3-1.fna&oh=00_AfCR3qUECwUDTIRxDViCvXSlKM5SyyKXLdex11XY1yLJWw&oe=65BBA156"
-          alt="" class="h-9 w-9 rounded-full shadow-xl inline-block me-3 ring-1 ring-primary/5"> -->
-        <h1
-          class=" text-2xl font-extrabold tracking-tight leading-none text-black drop-shadow-xl [text-shadow:_0_4px_0_rgb(0_0_0_/_10%)]  lg:text-4xl ">
-          Kvarner Tours</h1>
+      <NuxtLink :to="{ path: '/', hash: 'naslovnica' }" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src="../assets/img/hyperlinklogo3.webp" alt="" class='w-36'>
+        <!-- <h1
+          class=" text-2xl font-extrabold tracking-tight underline underline-offset-4 leading-none text-black drop-shadow-md  lg:text-4xl ">
+          Hyperlink</h1> -->
       </NuxtLink>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
-        <a href="tel:+38598491369"
-          class="text-3xl px-3  rounded-xl   text-black bg-gray-100 hover:bg-gray-200 hover:shadow-sm"><i
+        <a href="mailto:rukavina.rudi@gmail.com"
+          class="text-3xl px-3  rounded-xl   text-black bg-gray-50 hover:bg-gray-200 hover:shadow-sm"><i
+            class='fa fa-envelope'></i></a>
+        <a href="tel:+385992053344"
+          class="text-3xl px-3  rounded-xl   text-black bg-green-200 hover:bg-green-400 hover:shadow-sm"><i
             class='fa fa-phone'></i></a>
       </div>
     </div>
@@ -227,102 +228,18 @@
       <div class="flex items-center">
         <ul class="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
           <li>
-            <NuxtLink :to="{ path: '/', hash: '#naslovnica' }" class="text-gray-900  hover:underline">Naslovnica
+            <NuxtLink to="/" class="text-gray-900  hover:underline">Naslovnica
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink :to="{ path: '/', hash: '#usluge' }" class="text-gray-900  hover:underline">Usluge
+            <NuxtLink to="/mojeinformacije" class="text-gray-900 hover:underline">
+              Informacije i certifikati
             </NuxtLink>
           </li>
-          <li>
-            <NuxtLink to='/onama' class="text-gray-900  hover:underline">O nama
-            </NuxtLink>
-          </li>
-          <!-- <li>
-            <NuxtLink to='/mojepripreme' class="text-gray-900  hover:underline">Pripreme za državnu maturu
-            </NuxtLink>
-          </li> -->
-          <!-- <li>
-            <button id="dropdownNavbarLinkInstrukcije" data-dropdown-toggle="dropdownNavbarInstrukcije"
-              class="flex items-center justify-between w-full  text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:hover:bg-gray-700 md:dark:hover:bg-transparent">Instrukcije
-              <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
-                viewBox="0 0 10 6">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="m1 1 4 4 4-4" />
-              </svg></button>
 
-            <div id="dropdownNavbarInstrukcije"
-              class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
-              <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownLargeButton">
-                <li>
-                  <NuxtLink to="/instrukcije/osnovna"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Za
-                    osnovnu školu</NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink to="/instrukcije/srednja"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Za
-                    srednju školu</NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink to="/instrukcije/fakultet"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Za
-                    fakultet</NuxtLink>
-                </li>
-              </ul>
-              <div class="py-1">
-                <NuxtLink to="/instrukcije/jezik"
-                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">
-                  Tečaj
-                  stranog jezika</NuxtLink>
-              </div>
-            </div>
-          </li> -->
-          <!-- <li>
-            <button id="dropdownNavbarLinkUsluge" data-dropdown-toggle="dropdownNavbarUsluge"
-              class="flex items-center justify-between w-full  text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:hover:bg-gray-700 md:dark:hover:bg-transparent">Ostale
-              usluge
-              <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
-                viewBox="0 0 10 6">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="m1 1 4 4 4-4" />
-              </svg></button>
-
-            <div id="dropdownNavbarUsluge"
-              class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
-              <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownLargeButton">
-                <li>
-                  <NuxtLink to='/usluge/seminari'
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                    Seminari
-                  </NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink to='/usluge/pisanje'
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                    Pomoć
-                    u pisanju</NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink to='/usluge/natjecanja'
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                    Priprema za
-                    natjecanja</NuxtLink>
-                </li>
-                <li>
-                  <NuxtLink to="/usluge/organizacija"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                    Organizacija
-                    seminara
-                  </NuxtLink>
-                </li>
-              </ul>
-
-            </div>
-          </li> -->
           <li>
             <button id="dropdownNavbarLinkKontakt" data-dropdown-toggle="dropdownNavbarKontakt"
-              class="flex items-center justify-between w-full  text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:hover:bg-gray-700 md:dark:hover:bg-transparent pe-5">Kontakt
+              class="flex items-center justify-between w-full  text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:hover:bg-gray-700 md:dark:hover:bg-transparent pe-5">Usluge
 
               <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
                 viewBox="0 0 10 6">
@@ -333,38 +250,13 @@
             <div id="dropdownNavbarKontakt"
               class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600">
               <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownLargeButton">
-                <li>
-                  <a href="mailto:anterukavina@yahoo.com.hr"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"><i
-                      class='fa fa-envelope'> Pošalji email</i></a>
-                </li>
-                <li>
-                  <a href="https://maps.app.goo.gl/9dFa9f6sUkVuHxRD9" target='_blank'
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"><i
-                      class='fa fa-map-marker'> Dr. Ante Mandića 2</i></a>
-                </li>
-                <li>
-                  <a href="tel:+38598491369"
-                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"><i
-                      class='fa fa-phone'> +38598491369</i></a>
+                <li class='py-1'>
+                  <NuxtLink to='/digitalizacija'
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                    Digitalizacija</NuxtLink>
                 </li>
 
               </ul>
-              <div class="py-1">
-                <a href="https://www.facebook.com/kvarnertoursopatija" target='_blank'
-                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white"><i
-                    class='fa fa-facebook'>acebook</i></a>
-                <a href="https://www.instagram.com/kvarnertoursopatija" target='_blank'
-                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white"><i
-                    class='fa fa-instagram'> Instragram</i></a>
-              </div>
-              <div class="py-1">
-                <NuxtLink :to="{ path: '/', hash: '#radnovrijeme' }"
-                  class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">
-                  <i class='fa fa-calendar'> Radno
-                    vrijeme</i>
-                </NuxtLink>
-              </div>
             </div>
           </li>
 
@@ -372,6 +264,76 @@
       </div>
     </div>
   </nav>
+
+  <nav class="bg-gray-50 shadow-xl overflow-x-auto text-nowrap whitespace-nowrap px-5">
+    <div class="max-w-screen-xl px-4 py-3 mx-auto">
+      <div class="flex items-center">
+        <ul class="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
+          <li>
+            <button id="dropdownNavbarLinkKontaktasd" data-dropdown-toggle="dropdownNavbarKontaktasd"
+              class="flex items-center text-2xl justify-between w-full  text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto dark:text-white md:dark:hover:text-blue-500 dark:focus:text-white dark:hover:bg-gray-700 md:dark:hover:bg-transparent pe-5">Sva
+              potrebna dokumentacija
+
+              <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="m1 1 4 4 4-4" />
+              </svg></button>
+
+            <div id="dropdownNavbarKontaktasd"
+              class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-62 dark:bg-gray-700 dark:divide-gray-600">
+              <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownLargeButton">
+                <li>
+                  <a href="https://docs.google.com/document/d/13h_z4B6Vim6PfKKfmKcoRmPSJGL_7hXJ/edit?usp=sharing&ouid=116829830610241773861&rtpof=true&sd=true"
+                    target='_blank'
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 font-semibold dark:hover:text-white">🟢
+                    Ispunjeni
+                    opći podaci</a>
+                </li>
+                <hr>
+                <li>
+                  <NuxtLink to='/Elektronicki_zapis.pdf' target='_blank'
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 font-semibold dark:hover:text-white">
+                    🟢
+                    E-radna
+                    knjižica</NuxtLink>
+                </li>
+                <hr>
+                <li>
+                  <NuxtLink to="/potpore"
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 font-semibold dark:hover:text-white">
+                    🟢
+                    Oprema
+                    do
+                    10,000€</NuxtLink>
+                </li>
+                <hr>
+                <li>
+                  <NuxtLink to="/pismanamjere"
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 font-semibold dark:hover:text-white">
+                    🟡
+                    Pisma
+                    namjere</NuxtLink>
+                </li>
+                <hr>
+                <li>
+                  <NuxtLink to="/preslikadiplome"
+                    class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 font-semibold dark:hover:text-white">
+                    🟡
+                    Preslika
+                    diplome</NuxtLink>
+                </li>
+
+              </ul>
+
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
 </template>
 
 <script setup>
