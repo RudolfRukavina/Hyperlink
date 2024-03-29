@@ -95,7 +95,7 @@
         <tfoot>
           <tr class="font-semibold text-gray-900 dark:text-white">
             <th scope="row" class="px-6 py-3 text-base font-bold drop-shadow-md">Ukupno</th>
-            <td class="px-6 py-3 font-bold drop-shadow-md ">9986€</td>
+            <td class="px-6 py-3 font-bold drop-shadow-md ">9984€</td>
           </tr>
         </tfoot>
       </table>

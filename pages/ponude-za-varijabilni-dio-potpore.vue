@@ -122,7 +122,7 @@
         </div>
       </div>
 
-      <p class='text-7xl text-black text-semibold drop-shadow-md text-center w-full'>Sveukupno 9986€
+      <p class='text-7xl text-black text-semibold drop-shadow-md text-center w-full'>Sveukupno 9984€
       </p>
       <p class='text-xl text-black text-semibold drop-shadow-md text-center w-full'>Ovo je sve vrlo promjenjivo i nisam
         siguran što se uklapa i što ne, te jesam li na što zaboravio što mi je nužno za poslovanje.
