@@ -108,33 +108,33 @@
           <p class="uppercase text-gray-500 md:mb-6">Usluge digitalizacije poslovanja</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/frizerski" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Frizerski salon | Salon ljepote
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/teretana" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Teretana | Fitness
                 center
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/taxi" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Taxi služba
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/caffe" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Ugostiteljski objekt - Caffe bar
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/restoran" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Ugostiteljski objekt - Restoran
               </NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+              <NuxtLink to="/rent" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Rent a car | Rent a van
               </NuxtLink>
             </li>
@@ -191,23 +191,23 @@
           <p class="uppercase text-gray-500 md:mb-6">Očekivanja i predviđanja</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+              <NuxtLink to="/2024" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
                 2024. godinu</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+              <NuxtLink to="/2025" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
                 2025. godinu</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+              <NuxtLink to="/2026" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
                 2026. godinu</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+              <NuxtLink to="/2027" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
                 2027. godinu</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
+              <NuxtLink to="/2028" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Za
                 2028. godinu</NuxtLink>
             </li>
           </ul>

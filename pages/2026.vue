@@ -18,6 +18,19 @@
           <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
         </div>
         <p class='text-xl text-center w-full px-5'>
+          Osim već ugovorenih održavanja i digitalizacija poslovanja, potencijalno zapošljavam jednog radnika koji me
+          može zamijeniti i pomoći mi u održavanju i digitalizaciji novih klijenata, dok ja ostvarujem suradnju s <a
+            class='text-blue-600 underline' href='https://www.bornfight.com/' target='_blank'>BornFight-om</a>
+          te zajedno radimo na mom internom projektu zvanom "<a href='https://fittter.vercel.app/' target='_blank'
+            class='text-blue-600 underline'>Fittter</a>", koji će
+          ciljati biti
+          globalno prihvaćenja
+          web
+          aplikacija za zdravlje, fitness, sportove i prehranu. Fittter trenutno postoji jedino kao polufunkcionalni
+          prototip i vrlo razrađena ideja, ali eventualno, uz dovoljno uloženog vremena, Fittter može biti globalno
+          prihvaćen, jedinstven i inovativan custom training intergration
+          platform gdje će ljudi moći izrađivati svoje, kupovati, prodavati i koristiti trening programe za teretanu i
+          sportove.
         </p>
       </div>
     </section>
