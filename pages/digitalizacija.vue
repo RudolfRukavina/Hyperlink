@@ -22,7 +22,7 @@
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/najamkombivozila">
+            <NuxtLink class="portfolio-item block relative" to="/frizerski">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
@@ -36,7 +36,7 @@
             </NuxtLink>
           </div>
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/najamautomobila">
+            <NuxtLink class="portfolio-item block relative" to="/teretana">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
@@ -51,7 +51,7 @@
           </div>
 
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/ostalo">
+            <NuxtLink class="portfolio-item block relative" to="/taxi">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
@@ -65,7 +65,7 @@
             </NuxtLink>
           </div>
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/ostalo">
+            <NuxtLink class="portfolio-item block relative" to="/caffe">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
@@ -79,7 +79,7 @@
             </NuxtLink>
           </div>
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/ostalo">
+            <NuxtLink class="portfolio-item block relative" to="/restoran">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
@@ -93,7 +93,7 @@
             </NuxtLink>
           </div>
           <div class="col-span-1 lg:col-span-1">
-            <NuxtLink class="portfolio-item block relative" to="/ostalo">
+            <NuxtLink class="portfolio-item block relative" to="/rent">
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
