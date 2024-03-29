@@ -111,7 +111,7 @@
 
 
 
-    <section class="container mx-auto text-center py-1 pb-10" id="radnovrijeme">
+    <section class="container mx-auto px-10 text-center py-1 pb-10" id="radnovrijeme">
       <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-rose-700">
         Imam vremena
       </h2>
