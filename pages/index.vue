@@ -112,15 +112,6 @@
 
 
     <section class="container mx-auto px-10 text-center py-1 pb-10" id="radnovrijeme">
-      <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-rose-700">
-        Imam vremena
-      </h2>
-      <div class="w-full mb-4">
-        <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
-      </div>
-      <h3 class="my-4 text-5xl leading-tight text-rose-700">
-        od 10:00 do 22:00
-      </h3>
       <a href="tel:+385992053344">
         <button
           class="mx-3 hover:underline bg-rose-700 text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
