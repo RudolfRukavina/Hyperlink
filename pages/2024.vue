@@ -33,7 +33,6 @@
             teretane</RouterLink> te
           ugovoriti 11 klijenata da unaprijed napunim cijelu
           2025. godinu s projektima <br><br>
-          Mjesec dana po klijentu
           <br><br>
 
           <br>
