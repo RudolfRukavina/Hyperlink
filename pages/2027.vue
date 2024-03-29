@@ -1,7 +1,7 @@
 <template>
 
   <Head>
-    <Title>Hyperlink - Preslika diplome</Title>
+    <Title>Hyperlink - Plan 2027.</Title>
     <Meta name="description"
       content="Najpovoljniji najam putničkih kombi vozila (8+1 sjedala) i automobila u Primorsko-goranskoj županiji! Otvoreni smo 24 sata svaki dan." />
     <Style type="text/css" />
@@ -9,8 +9,18 @@
   <!--Hero-->
 
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-
-    <p class='text-4xl text-black text-center w-full my-10'>U izradi...</p>
+    <section class="content-section bg-white py-16 -my-[1px]" id="businesses">
+      <div class="container mx-auto px-4 lg:px-5">
+        <h2 class="w-full my-2 text-4xl font-bold leading-tight text-center text-gray-800">
+          Plan 2027.
+        </h2>
+        <div class="w-full mb-4">
+          <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
+        </div>
+        <p class='text-xl text-center w-full px-5'>
+        </p>
+      </div>
+    </section>
   </body>
 </template>
 <script setup>

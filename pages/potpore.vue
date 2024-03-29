@@ -1,7 +1,7 @@
 <template>
 
   <Head>
-    <Title>Kvarner Tours - Naslovnica</Title>
+    <Title>Hyperlink - Potpore</Title>
     <Meta name="description"
       content="Najpovoljniji najam putničkih kombi vozila (8+1 sjedala) i automobila u Primorsko-goranskoj županiji! Otvoreni smo 24 sata svaki dan." />
     <Style type="text/css" />
