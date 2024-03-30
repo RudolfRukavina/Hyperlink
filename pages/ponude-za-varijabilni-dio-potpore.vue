@@ -12,19 +12,19 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
           <div class="col-span-1 lg:col-span-1">
             <a class="portfolio-item block relative"
-              href="https://www.centar-tehnike.hr/apple-macbook-pro-16-m3-max-36gb-1tb-silver-hr-proizvod-36710/?utm_source=jeftinije&utm_medium=products&utm_campaign=jeftinije_products&utm_content=pp_34699%E2%82%AC"
+              href="https://www.jeftinije.hr/Proizvod/36859576/racunalna-oprema/prijenosna-racunala/prijenosnici/apple-macbook-pro-16-m3-max-16c-40c-48gb-1tb-silver"
               target='_blank'>
               <div class="absolute inset-0 bg-black bg-opacity-50 transition-opacity lg:opacity-0 hover:opacity-100">
                 <div class="caption absolute inset-0 flex items-center justify-center">
                   <div class="text-white text-center">
-                    <div class="text-2xl">Laptop - Apple MacBook Pro 16 M3 Max 36GB / 1TB Silver HR</div>
+                    <div class="text-2xl">Apple Macbook Pro 16, M3 Max 16C-40C, 48GB, 1TB, Silver</div>
                   </div>
                 </div>
               </div>
               <img class="object-cover w-full h-full"
                 src="https://www.centar-tehnike.hr/upload/catalog/product/36710/1_65df34b23fdcf.jpg" alt="..." />
             </a>
-            <p class='text-2xl text-black text-semibold drop-shadow-md text-center'>4699€
+            <p class='text-2xl text-black text-semibold drop-shadow-md text-center'>5199€
             </p>
           </div>
           <div class="col-span-1 lg:col-span-1">
