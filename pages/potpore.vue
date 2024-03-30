@@ -9,7 +9,7 @@
   <!--Hero-->
 
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-    <h2 class="w-full mt-20 my-2 text-3xl md:text-5xl font-bold leading-tight text-center text-gray-800">
+    <h2 class="w-full mt-20 my-2 text-xl md:text-4xl font-bold leading-tight text-center text-gray-800">
       Ponude za varijabilni dio potpore u iznosu od 10,000€
     </h2>
     <div class="w-full mb-4">
@@ -98,7 +98,7 @@
         </tfoot>
       </table>
     </div>
-    <p class="text-xl text-black text-semibold drop-shadow-md text-center w-full px-5">
+    <p class="text-lg text-black text-semibold drop-shadow-md text-center w-full px-5">
       Ovo je sve vrlo promjenjivo i nisam siguran što se uklapa i što ne, te
       jesam li na što zaboravio što mi je nužno za poslovanje.
     </p>

@@ -11,7 +11,7 @@
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
     <section class="content-section bg-white py-16 -my-[1px]" id="businesses">
       <div class="container mx-auto px-4 lg:px-5">
-        <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
+        <h2 class="w-full my-2 text-3xl font-bold leading-tight text-center text-gray-800">
           Digitalizacija poslovanja po vrsti poslovanja
         </h2>
         <h2 class="w-full my-2 text-base font-bold leading-tight text-center text-gray-800">

@@ -15,13 +15,13 @@
     <div class="w-full mb-4">
       <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
     </div>
-    <p class='text-3xl text-center w-full my-10 px-10'>Trenutno posjedujem isključivo jedan (po meni bezvrijedan)
+    <p class='text-xl text-center w-full my-10 px-10'>Trenutno posjedujem isključivo jedan (po meni bezvrijedan)
       certifikat
       za HTML, ali nadodat ću ga tu.</p>
     <div class="flex justify-center">
       <img class='max-w-sm md:max-w-3xl' src="../assets/pdf/certifikat1.png" alt="">
     </div>
-    <p class='text-3xl text-center w-full mb-5  mt-32 px-10'>Osim toga u vlasništvu sam ispita za Vue
+    <p class='text-xl text-center w-full mb-5  mt-10 px-10'>Osim toga u vlasništvu sam ispita za Vue
       (javascript
       framework) certifikat kojeg nisam još polagao ali je plaćen i mogu ga bilo kada polagati. Morao bih odvojiti
       jedan
@@ -29,7 +29,7 @@
       tjedan za pripremu i polaganje, ali ako je nužno za bodove, nije mi problem postati certificirani Vue developer.
     </p>
     <div class="flex justify-center">
-      <img class='max-w-sm md:max-w-3xl mb-80' src="../assets/pdf/vuecert.png" alt="">
+      <img class='max-w-sm md:max-w-3xl mb-5' src="../assets/pdf/vuecert.png" alt="">
     </div>
   </body>
 </template>
