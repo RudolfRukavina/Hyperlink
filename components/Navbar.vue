@@ -2,7 +2,7 @@
   <nav class="bg-white">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
       <NuxtLink to="/izbornik" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <img src="../assets/img/hplink.webp" alt="" class="w-44" />
+        <img src="../assets/img/hplink.webp" alt="" class="w-32" />
       </NuxtLink>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
         <a href="mailto:rukavina.rudi@gmail.com"
@@ -20,21 +20,6 @@
         <ul class="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
           <li>
             <NuxtLink to="/izbornik" class="text-gray-900 hover:underline">Izbornik
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink to="/mojeinformacije" class="text-gray-900 hover:underline">
-              Informacije
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink to="/certifikati" class="text-gray-900 hover:underline">
-              Certifikati
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink to="/digitalizacija" class="text-gray-900 hover:underline">
-              Digitalizacija
             </NuxtLink>
           </li>
         </ul>
