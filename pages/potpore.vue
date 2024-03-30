@@ -34,6 +34,14 @@
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+              <a class="text-blue-500 underline" target="_blank"
+                href="https://www.jeftinije.hr/Proizvod/35829673/telefoni/mobiteli-oprema/mobiteli-pametni-telefoni/apple-pametni-telefon-iphone-15-pro-max-8gb512gb-natural-titanium">
+                APPLE pametni telefon iPhone 15 Pro Max 8GB/512GB</a>
+            </th>
+            <td class="px-6 py-4">1433€</td>
+          </tr>
+          <tr class="bg-white dark:bg-gray-800">
+            <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
               <a class="text-blue-500 underline" target="_blank" href="https://www.jeftinije.hr/Proizvod/36421897">
                 Printer - XEROX WorkCentre 3025NI višenamjenski laserski uređaj</a>
             </th>
@@ -85,7 +93,7 @@
             <th scope="row" class="px-6 py-3 text-base font-bold drop-shadow-md">
               Ukupno
             </th>
-            <td class="px-6 py-3 font-bold drop-shadow-md">8505€</td>
+            <td class="px-6 py-3 font-bold drop-shadow-md">9938€</td>
           </tr>
         </tfoot>
       </table>
