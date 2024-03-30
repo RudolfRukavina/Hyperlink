@@ -2,7 +2,7 @@
   <nav class="bg-white">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
       <NuxtLink to="/izbornik" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <img src="../assets/img/hplink.webp" alt="" class="w-56" />
+        <img src="../assets/img/hplink.webp" alt="" class="w-44" />
       </NuxtLink>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
         <a href="mailto:rukavina.rudi@gmail.com"
