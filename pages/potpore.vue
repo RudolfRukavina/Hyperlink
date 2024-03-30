@@ -34,11 +34,10 @@
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-              <a class="text-blue-500 underline" target="_blank"
-                href="https://www.centar-tehnike.hr/pisac-epson-ecotank-l5296-poklon-papir-proizvod-27645/?utm_source=jeftinije&utm_medium=products&utm_campaign=jeftinije_products&utm_content=pp_2">
-                Printer - Pisač EPSON EcoTank L5296</a>
+              <a class="text-blue-500 underline" target="_blank" href="https://www.jeftinije.hr/Proizvod/36421897">
+                Printer - XEROX WorkCentre 3025NI višenamjenski laserski uređaj</a>
             </th>
-            <td class="px-6 py-4">260€</td>
+            <td class="px-6 py-4">222€</td>
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -86,7 +85,7 @@
             <th scope="row" class="px-6 py-3 text-base font-bold drop-shadow-md">
               Ukupno
             </th>
-            <td class="px-6 py-3 font-bold drop-shadow-md">8443€</td>
+            <td class="px-6 py-3 font-bold drop-shadow-md">8505€</td>
           </tr>
         </tfoot>
       </table>
