@@ -33,7 +33,7 @@
         </a>
       </section>
       <hr />
-      <section v-show="false">
+      <section>
         <h2 class="w-full my-2 mt-20 text-4xl font-bold leading-tight px-5 text-center text-gray-800">
           Zelena i digitalna tranzicija
         </h2>
@@ -87,7 +87,7 @@
         </div>
       </section>
     </div>
-    <section v-show='false'>
+    <section>
       <h2 class="w-full my-2 mt-20 text-4xl font-bold leading-tight px-5 text-center text-gray-800">
         Vaucheri za digitalizaciju
       </h2>
