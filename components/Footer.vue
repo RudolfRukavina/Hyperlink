@@ -30,7 +30,7 @@
           </ul>
         </div>
         <div class="flex-1">
-          <p class="uppercase text-gray-900 drop-shadow-md font-semibold md:mb-6">Sva potrebna dokumentacija</p>
+          <p class="uppercase text-gray-900 drop-shadow-md font-bold underline md:mb-6">Sva potrebna dokumentacija</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a href="https://docs.google.com/document/d/13h_z4B6Vim6PfKKfmKcoRmPSJGL_7hXJ/edit?usp=sharing&ouid=116829830610241773861&rtpof=true&sd=true"

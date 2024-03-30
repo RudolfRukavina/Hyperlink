@@ -9,55 +9,27 @@
   <!--Hero-->
 
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-    <div class="pt-10 py-2 mx-1" id="naslovnica">
-      <section class="content-section bg-white -my-[1px]" id="usluge">
-        <div class="container mx-auto px-4 lg:px-5">
-          <h2 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
-            Moje informacije
-          </h2>
-          <div class="w-full mb-4">
-            <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
-          </div>
-        </div>
-      </section>
-      <div class="relative overflow-x-auto">
-        <div class="flex flex-col">
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Ime</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">Rudolf</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Prezime</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">Rukavina</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">OIB</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">46621560980</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Zanimanje</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">Tehničar za el. strojeve s primjenjenim
-              računalstvom</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Datum rođenja</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">18.09.1998.</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Adresa prebivališta</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">Stupari 24, Viškovo, Rijeka</span>
-          </div>
-          <div class="flex flex-row border-b dark:border-gray-700">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Email</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">rukavina.rudi@gmail.com</span>
-          </div>
-          <div class="flex flex-row">
-            <span class="w-1/3 px-6 py-3 font-medium text-black dark:text-white">Telefon</span>
-            <span class="w-2/3 px-6 py-3 text-black dark:text-white">+385 99 205 3344</span>
-          </div>
-        </div>
-
-      </div>
+    <h2 class="w-full my-2 mt-32 text-5xl font-bold leading-tight text-center text-gray-800">
+      Moji certifikati
+    </h2>
+    <div class="w-full mb-4">
+      <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
+    </div>
+    <p class='text-3xl text-center w-full my-10 px-10'>Trenutno posjedujem isključivo jedan (po meni bezvrijedan)
+      certifikat
+      za HTML, ali nadodat ću ga tu.</p>
+    <div class="flex justify-center">
+      <img class='max-w-sm md:max-w-3xl' src="../assets/pdf/certifikat1.png" alt="">
+    </div>
+    <p class='text-3xl text-center w-full mb-5  mt-32 px-10'>Osim toga u vlasništvu sam ispita za Vue
+      (javascript
+      framework) certifikat kojeg nisam još polagao ali je plaćen i mogu ga bilo kada polagati. Morao bih odvojiti
+      jedan
+      radni
+      tjedan za pripremu i polaganje, ali ako je nužno za bodove, nije mi problem postati certificirani Vue developer.
+    </p>
+    <div class="flex justify-center">
+      <img class='max-w-sm md:max-w-3xl mb-80' src="../assets/pdf/vuecert.png" alt="">
     </div>
   </body>
 </template>
