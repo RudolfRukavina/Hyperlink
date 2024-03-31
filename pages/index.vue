@@ -38,7 +38,7 @@
           Zelena i digitalna tranzicija
         </h2>
         <h2 class="w-full my-2 text-base font-bold leading-tight px-2 text-center text-gray-800">
-          Moja uloga je digitalizirati male i srednje poduzetnike u Hrvatskoj prema viziji <a
+          Moja uloga je digitalizirati mikro, male i srednje poduzetnike u Hrvatskoj prema viziji <a
             href='https://hrvatska2030.hr/' target='_blank' class='text-blue-600 underline'>Digitalna Hrvatska
             2030.</a>
         </h2>
