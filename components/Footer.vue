@@ -109,11 +109,6 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
-                Snimanje videozapisa - poruka svijetu prije smrti
-              </NuxtLink>
-            </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 -QR kod na nadgrobnoj ploči
               </NuxtLink>
             </li>
@@ -127,7 +122,11 @@
                 -NFC čip (Na dodir telefonom) na nadgrobnoj ploči
               </NuxtLink>
             </li>
-
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Snimanje videozapisa - poruka svijetu prije smrti
+              </NuxtLink>
+            </li>
           </ul>
         </div>
         <div class="flex-1">

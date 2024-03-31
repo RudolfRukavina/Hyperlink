@@ -58,13 +58,13 @@
               </span>
               of your business
             </h1>
-            <p class="text-gray-500 text-base font-semibold mx-5">
+            <p class="text-gray-500 text-base font-semibold font-sans mx-5">
               Hyperlink Software Development helps curious business owners
               discover the digital capability of their business and evaluates
               whether
               <span class="text-rose-500 drop-shadow-md">it's the right time for digitalization.</span>
             </p>
-            <p class="text-gray-500 text-base font-semibold mx-5 mt-4">
+            <p class="text-gray-500 text-base font-semibold font-sans mx-5 mt-4">
               Millions of individuals invest significant time and resources in
               repetitive tasks, often due to a lack of essential information and
               technology. Our expert guidance, tailored asessments, personalized
