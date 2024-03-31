@@ -42,10 +42,11 @@
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-              <a class="text-blue-500 underline" target="_blank" href="https://www.jeftinije.hr/Proizvod/36421897">
-                Printer - XEROX WorkCentre 3025NI</a>
+              <a class="text-blue-500 underline" target="_blank"
+                href="https://www.senetic.hr/product/5160C019?utm_source=jeftinije&utm_medium=products&utm_campaign=jeftinije_products&utm_content=pp_2">
+                Printer - Canon i-SENSYS</a>
             </th>
-            <td class="px-6 py-4">222€</td>
+            <td class="px-6 py-4">1037€</td>
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -66,15 +67,15 @@
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
               <a class="text-blue-500 underline" target="_blank"
-                href="https://www.velinac.hr/shop/proizvodi/bazni-element-radni-stol-infinity-executive/">
+                href="https://www.velinac.hr/shop/proizvodi/radni-stol-bazni-element-infinity-executive/">
                 Radni stol za bazni element Infinity Executive</a>
             </th>
             <td class="px-6 py-4">427€</td>
           </tr>
           <tr class="bg-white dark:bg-gray-800">
             <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-              <a class="text-blue-500 underline" target="_blank"
-                href="https://www.velinac.hr/shop/proizvodi/radni-stol-bazni-element-infinity-executive/">
+              <a class="text-blue-500 underline" target="_blank" href="
+                https://www.velinac.hr/shop/proizvodi/bazni-element-radni-stol-infinity-executive/">
                 Bazni element za radni stol Infinity Executive</a>
             </th>
             <td class="px-6 py-4">630€</td>
@@ -93,11 +94,36 @@
             <th scope="row" class="px-6 py-3 text-base font-bold drop-shadow-md">
               Ukupno
             </th>
-            <td class="px-6 py-3 font-bold drop-shadow-md">8913€</td>
+            <td class="px-6 py-3 font-bold drop-shadow-md">9728€</td>
           </tr>
         </tfoot>
       </table>
     </div>
+    <p class="text-lg text-black text-semibold drop-shadow-md text-center w-full px-5">
+      - Potencijalno novi punjač, iako ga imam.
+      <br>
+      - Uredski paketi (Google Workspace, Microsoft Office, Photoshop)
+      <br>
+      - Potencijalno - Antivirusni software
+      <br>
+      - Uredski materijal - toneri, papir, olovke, bilježnice, blokovi za bilješke, registratori, fascikli...
+      <br>
+      - Whiteboard
+      <br>
+      - Kablovi za povezivanje računala i uređaja
+      <br>
+      - Podloga za tipkovnicu
+      <br>
+      - Internetski ugovor - router - 1gbit/1gbit 24 mjeseca
+      <br>
+      - Košara za smeće
+      <br>
+      - Protupožarni ormar, vatrogasni aparat, izrada evakuacijskog plana
+      <br>
+      - Sef za sigurno pohranjivanje važnih dokumenata
+      <br>
+      - Chat GPT 4 - plaćena verzija 24 mjeseca
+    </p>
     <p class="text-lg text-black text-semibold drop-shadow-md text-center w-full px-5">
       Ovo je sve vrlo promjenjivo i nisam siguran što se uklapa i što ne, te
       jesam li na što zaboravio što mi je nužno za poslovanje.
