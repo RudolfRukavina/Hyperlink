@@ -100,6 +100,37 @@
           </ul>
         </div>
         <div class="flex-1">
+          <p class="uppercase text-gray-900 drop-shadow-md font-semibold md:mb-6">Usluge digitalnih memorijala</p>
+          <ul class="list-reset mb-6">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Izrada web biografije pokojnika
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Snimanje videozapisa - poruka svijetu prije smrti
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                -QR kod na nadgrobnoj ploči
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                -Ugravirani QR kod na nadgrobnoj ploči
+              </NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/izbornik" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                -NFC čip (Na dodir telefonom) na nadgrobnoj ploči
+              </NuxtLink>
+            </li>
+
+          </ul>
+        </div>
+        <div class="flex-1">
           <p class="uppercase text-gray-900 drop-shadow-md font-semibold md:mb-6">Marketing</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
@@ -117,6 +148,7 @@
                 Izrada | Instrukcije i pomoć s facebook oglašavanjem
               </NuxtLink>
             </li>
+
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Izrada kratkih glazbenih videa
@@ -142,6 +174,11 @@
               <NuxtLink to="/digitalizacija" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
                 Razvoj dizajna i provedba izrade
                 vizitki</NuxtLink>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <NuxtLink to="/googlereviewcard" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                Razvoj dizajna i provedba izrade
+                povezanih QR kodova</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <NuxtLink to="/googlereviewcard" class="no-underline hover:underline text-gray-800 hover:text-pink-500">

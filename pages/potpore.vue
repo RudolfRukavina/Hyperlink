@@ -100,15 +100,17 @@
       </table>
     </div>
     <p class="text-lg text-black text-semibold drop-shadow-md text-center w-full px-5">
-      - Potencijalno novi punjač, iako ga imam.
+      - Google Workspace (22.22€/24 mjeseca)
       <br>
-      - Uredski paketi (Google Workspace, Microsoft Office, Photoshop)
-      <br>
-      - Potencijalno - Antivirusni software
+      - Potencijalno Figma (288€/24 mjeseca)
       <br>
       - Uredski materijal - toneri, papir, olovke, bilježnice, blokovi za bilješke, registratori, fascikli...
       <br>
-      - Whiteboard
+      - Plastifikator
+      <br>
+      - Whiteboard - <a class="text-blue-600 underline" href="https://www.jeftinije.hr/Proizvod/34638880"
+        target='_blank'>čelična magnetna ploča,
+        1500x1000 mm</a> - 115,79 €
       <br>
       - Kablovi za povezivanje računala i uređaja
       <br>
