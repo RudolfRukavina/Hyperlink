@@ -9,13 +9,43 @@
   <!--Hero-->
 
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-
-    <p class='text-4xl text-black text-center w-full my-10'>U izradi...</p>
-    <p class='text-4xl text-black text-center w-full'>1. Parallel j.d.o.o.</p>
-    <p class='text-4xl text-black text-center w-full'>2. Taxi Opatija Obrt za usluge</p>
-    <p class='text-4xl text-black text-center w-full'>3. Kvarner Tours j.d.o.o.</p>
-    <p class='text-4xl text-black text-center w-full'>4. ID90 d.o.o.</p>
-    <p class='text-4xl text-black text-center w-full'>5. RDA arhitektura j.d.o.o. </p>
+    <p class="text-4xl text-black text-center w-full my-10">U izradi...</p>
+    <hr>
+    <div class="w-full text-center my-5">
+      <p class="text-3xl">
+        🟡 Poslano - Čeka se potpis -
+        <span class="font-bold"> Parallel j.d.o.o.</span>
+      </p>
+      <a class="mx-5 text-blue-600 underline" href="/Parallel-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/Parallel-PN.pdf" target="_blank">Preview</a>
+    </div>
+    <hr />
+    <div class="w-full text-center my-5">
+      <p class="text-3xl">
+        🟡 Poslano - Čeka se potpis -
+        <span class="font-bold">Taxi Opatija, Obrt za usluge</span>
+      </p>
+      <a class="mx-5 text-blue-600 underline" href="/TaxiOpatija-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/TaxiOpatija-PN.pdf" target="_blank">Preview</a>
+    </div>
+    <hr />
+    <div class="w-full text-center my-5">
+      <p class="text-3xl">
+        🟡 Poslano - Čeka se potpis -
+        <span class="font-bold">Kvarner Tours j.d.o.o.</span>
+      </p>
+      <a class="mx-5 text-blue-600 underline" href="/KvarnerTours-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/KvarnerTours-PN.pdf" target="_blank">Preview</a>
+    </div>
+    <hr />
+    <div class="w-full text-center my-5">
+      <p class="text-3xl">
+        🟡 Poslano - Čeka se potpis - <span class="font-bold">ID90 d.o.o.</span>
+      </p>
+      <a class="mx-5 text-blue-600 underline" href="/ID90-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/ID90-PN.pdf" target="_blank">Preview</a>
+    </div>
+    <hr>
   </body>
 </template>
 <script setup>
