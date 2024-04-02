@@ -58,8 +58,9 @@
                 🟡 Pisma namjere</NuxtLink>
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-              <NuxtLink to="/preslikadiplome" class="no-underline hover:underline text-gray-800 hover:text-pink-500">
-                🟡 Preslika diplome</NuxtLink>
+              <a href="/rudolfrukavinasvjedodzba.pdf" target="_blank"
+                class="no-underline hover:underline text-gray-800 hover:text-pink-500">
+                🟢 Preslika diplome</a>
             </li>
           </ul>
         </div>
