@@ -9,15 +9,14 @@
   <!--Hero-->
 
   <body class="leading-normal tracking-normal text-white bg-white" style="font-family: 'Source Sans Pro', sans-serif">
-    <p class="text-4xl text-black text-center w-full my-10">U izradi...</p>
-    <hr>
+    <hr />
     <div class="w-full text-center my-5">
       <p class="text-3xl">
-        🟡 Poslano - Čeka se potpis -
+        🟢 Obavljeno -
         <span class="font-bold"> Parallel j.d.o.o.</span>
       </p>
-      <a class="mx-5 text-blue-600 underline" href="/Parallel-PN.pdf" download>Download</a>
-      <a class="mx-5 text-blue-600 underline" href="/Parallel-PN.pdf" target="_blank">Preview</a>
+      <a class="mx-5 text-blue-600 underline" href="/ParallelPotpisan-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/ParallelPotpisan-PN.pdf" target="_blank">Preview</a>
     </div>
     <hr />
     <div class="w-full text-center my-5">
@@ -45,7 +44,16 @@
       <a class="mx-5 text-blue-600 underline" href="/ID90-PN.pdf" download>Download</a>
       <a class="mx-5 text-blue-600 underline" href="/ID90-PN.pdf" target="_blank">Preview</a>
     </div>
-    <hr>
+    <hr />
+    <div class="w-full text-center my-5">
+      <p class="text-3xl">
+        🟡 Poslano - Čeka se potpis -
+        <span class="font-bold">Aquarius d.o.o.</span>
+      </p>
+      <a class="mx-5 text-blue-600 underline" href="/Aquarius3000-PN.pdf" download>Download</a>
+      <a class="mx-5 text-blue-600 underline" href="/Aquarius3000-PN.pdf" target="_blank">Preview</a>
+    </div>
+    <hr />
   </body>
 </template>
 <script setup>
