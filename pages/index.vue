@@ -100,7 +100,7 @@
       </div>
       <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center mb-32">
         <div class="flex flex-col w-full md:w-2/5 justify-center items-center mt-16 text-center md:text-left">
-          <img src="../assets/img/hyperlinklogo3.webp" alt="" class="w-92" />
+          <img src="../assets/img/hplink.webp" alt="" class="w-92" />
           <p class="text-gray-800 w-full text-center mt-2 text-xl font-semibold drop-shadow-lg">
             Obrt za računalno programiranje
           </p>
