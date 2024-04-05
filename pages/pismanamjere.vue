@@ -39,7 +39,7 @@
     <hr />
     <div class="w-full text-center my-5">
       <p class="text-3xl">
-        🟡 Poslano - Čeka se potpis - <span class="font-bold">ID90 d.o.o.</span>
+        🟢 Obavljeno - <span class="font-bold">ID90 d.o.o.</span>
       </p>
       <a class="mx-5 text-blue-600 underline" href="/ID90Potpisan-PN.pdf" download>Download</a>
       <a class="mx-5 text-blue-600 underline" href="/ID90Potpisan-PN.pdf" target="_blank">Preview</a>
